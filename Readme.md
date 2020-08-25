@@ -1,6 +1,6 @@
 
 
-### Log loss
+### 1. Log loss
 
 about log loss - here https://medium.com/@egor_vorobiev/how-to-improve-log-loss-score-kaggle-trick-3f95577839f1
 
